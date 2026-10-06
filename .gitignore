@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+*.db
+*.db-journal
+*.sqlite
+*.sqlite-journal
+client/.vite/
+*.tsbuildinfo
+coverage/
